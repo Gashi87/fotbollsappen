@@ -1,0 +1,57 @@
+{
+  "home": {
+    "title": "Utforska Fotbollsligor",
+    "searchPlaceholder": "🔍 Sök efter liga...",
+    "noResults": "Inga ligor hittades",
+    "viewMatches": "Visa matcher idag"
+  },
+
+  "player": {
+    "position": "Position",
+    "nationality": "Nationalitet",
+    "dateOfBirth": "Födelsedatum",
+    "role": "Roll",
+    "backToTeam": "Tillbaka till {{team}}",
+    "team": "laget",
+    "unknown": "Okänd",
+    "notFound": "Kunde inte hitta spelardata"
+  },
+  "common": {
+    "loading": "Laddar..."
+  },
+
+  "team": {
+    "backToLeagues": "Tillbaka till ligor",
+    "founded": "Grundad",
+    "venue": "Hemmaarena",
+    "colors": "Färger",
+    "website": "Webbplats",
+    "recentMatches": "Senaste & kommande matcher",
+    "squad": "Trupp",
+    "noMatches": "Inga matcher tillgängliga",
+    "noSquad": "Ingen trupp är tillgänglig",
+    "loading": "Laddar laginfo..."
+  },
+
+  "league": {
+    "backToLeagues": "Tillbaka till ligor",
+    "team": "Lag",
+    "played": "Spelade",
+    "won": "Vunna",
+    "draw": "Oavgjorda",
+    "lost": "Förlorade",
+    "points": "Poäng"
+  },
+
+  "matches": {
+    "title": "Matcher för vald dag",
+    "today": "Idag",
+    "tomorrow": "Imorgon",
+    "noMatches": "Inga matcher hittades för valt datum",
+    "allCompetitions": "Alla turneringar",
+    "scheduled": "kommande matcher"
+  }
+
+
+
+}

@@ -1,0 +1,59 @@
+{
+  "home": {
+    "title": "Explore Football Leagues",
+    "searchPlaceholder": "🔍 Search for a league...",
+    "noResults": "No leagues found",
+    "viewMatches": "View matches today"
+  },
+
+  "player": {
+    "position": "Position",
+    "nationality": "Nationality",
+    "dateOfBirth": "Date of Birth",
+    "role": "Role",
+    "backToTeam": "Back to {{team}}",
+    "team": "team",
+    "unknown": "Unknown",
+    "notFound": "Could not find player data"
+  },
+  "common": {
+    "loading": "Loading..."
+  },
+
+  "team": {
+    "backToLeagues": "Back to leagues",
+    "founded": "Founded",
+    "venue": "Stadium",
+    "colors": "Colors",
+    "website": "Website",
+    "recentMatches": "Recent & upcoming Matches",
+    "squad": "Squad",
+    "noMatches": "No matches available",
+    "noSquad": "No squad is available",
+    "loading": "Loading team info..."
+  },
+
+  "league": {
+    "backToLeagues": "Back to leagues",
+    "team": "Team",
+    "played": "Played",
+    "won": "Won",
+    "draw": "Draw",
+    "lost": "Lost",
+    "points": "Points"
+  },
+
+  "matches": {
+    "title": "Matches for selected day",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "noMatches": "No matches found for selected date",
+    "allCompetitions": "All competitions",
+    "scheduled": "Upcoming matches"
+  }
+
+
+}
+
+
+
