@@ -6,7 +6,7 @@ import Layout from "./components/Layout.tsx";
 import TeamDetails from "./pages/TeamDetails.tsx";
 import PlayerDetails from "./pages/PlayerDetails.tsx";
 import "./i18n";
-// import MatchDetails from "./pages/MatchDetails.tsx";
+import MatchDetails from "./pages/MatchDetails.tsx";
 import MatchCenter from "./pages/MatchCenter.tsx";
 
 
@@ -19,7 +19,7 @@ function App() {
                     <Route path="/league/:id" element={<LeagueDetails/>}/>
                     <Route path="/team/:id" element={<TeamDetails />} />
                     <Route path="/player/:id" element={<PlayerDetails />} />
-                    {/*<Route path="/matches" element={<MatchDetails />} />*/}
+                    <Route path="/matches" element={<MatchDetails />} />
                     <Route path="/matchcenter" element={<MatchCenter />} />
                 </Routes>
             </Layout>
